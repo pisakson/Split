@@ -1,7 +1,7 @@
 
 # Split
 
-A MacOS window controller.
+A lightweight MacOS window controller.
 
 
 
