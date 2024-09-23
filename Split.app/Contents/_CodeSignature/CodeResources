@@ -10,39 +10,33 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		mTQ654dhzQWAGb1YHFHxQ/jPtG8=
+		QKq0Y20x12ac293pqzbQLvttxSY=
 		</data>
-		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Info.plist</key>
 		<data>
-		M1rS+Tcas1ZdM4/iibTlduTJ22M=
+		p9XwXkajb0UlatRiO5z5cF3PFNQ=
 		</data>
-		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/LaunchAtLogin.entitlements</key>
 		<data>
-		iub/FyWDiBtZz4qqf9aLUSqeLsc=
+		EPWnZClCepLXTlRBQz8jOgCUyHo=
 		</data>
-		<key>Resources/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sw3F1yaExBtIzfYYt4O3AgAQn6Q=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/LaunchAtLoginHelper-with-runtime.zip</key>
+		<data>
+		ENUoxt0NXRKqIzXtfZ4+zjsLWfA=
+		</data>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/LaunchAtLoginHelper.zip</key>
+		<data>
+		XHEUmESAY3dj/Og1p0TdBMdYn6Y=
+		</data>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/copy-helper-swiftpm.sh</key>
+		<data>
+		LxFUat4iFmw+5NX0CjZFYe5yilk=
+		</data>
 		<key>Resources/sv.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lCgG1eiZwUDM/aa1mIBzVPzht1A=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/sv.lproj/Main.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aLHCWxx5AXKCuijT+p73iGQ/HUI=
+			gbmKxamaGfUgCBx1JqBdzkxxitU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -61,46 +55,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e77EnTcP5RoCzVBOTPWS+cw+QT+qIl6B8dUFKON2F0Q=
+			SDKSPG8kg/JLgDwrzRbOW6uXa5BtZlkmVWTHqOLys9M=
 			</data>
 		</dict>
-		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6/2HagpKuzGhxFgQU55Lc/bxgR30qm5eqHSV+p9e4/4=
+			kR4StAYwOsGbof9ZI3O85LgpVQ8qD1dBGlFuLpJF96k=
 			</data>
 		</dict>
-		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/LaunchAtLogin.entitlements</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pVlyqjfYnoOUqQpiRcD0uSZoQs1FRz6TufbdPf/8jOs=
+			t0bHSyAeavTghk+9H09in5YVan7EtyCLyZXQpQibtZI=
 			</data>
 		</dict>
-		<key>Resources/en.lproj/Localizable.strings</key>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/LaunchAtLoginHelper-with-runtime.zip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZgFcHUT0Qpt4fLniLrUuhD8vsPYhD4Yz57ASoMdo1pc=
+			mO9Va0kOAvQIShHYoHwzqIAXepgWs1WIWhH1jJWHbWI=
 			</data>
-			<key>optional</key>
-			<true/>
+		</dict>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/LaunchAtLoginHelper.zip</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Cj0JQ4+1lYAtVUzgp8S6jh0tkdUXA2KtyWXagucNdMs=
+			</data>
+		</dict>
+		<key>Resources/LaunchAtLogin_LaunchAtLogin.bundle/Contents/Resources/copy-helper-swiftpm.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6tiVzc4Wnp1pLTpXgQ7Fsows4x4WuvHgJbzkSxV/oQk=
+			</data>
 		</dict>
 		<key>Resources/sv.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZwFOi7TyZ7Va2vDFkpWeWMaCvVPb/laPUsnpmHJgyrI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Resources/sv.lproj/Main.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			h+kZjJWU6+n8NElTIBfaxaB4+w2sF146NqWq42NoO3w=
+			kRvI9pUBHtRw3muZSToHZh4oKfW5rpqKh5DhG0uATK0=
 			</data>
 			<key>optional</key>
 			<true/>

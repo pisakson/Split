@@ -6,28 +6,18 @@
 	<string>23E224</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
-	<key>CFBundleExecutable</key>
-	<string>Split</string>
-	<key>CFBundleIconFile</key>
-	<string>AppIcon</string>
-	<key>CFBundleIconName</key>
-	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
-	<string>PhilleStudios.Split</string>
+	<string>LaunchAtLogin-LaunchAtLogin-resources</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Split</string>
+	<string>LaunchAtLogin_LaunchAtLogin</string>
 	<key>CFBundlePackageType</key>
-	<string>APPL</string>
-	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>BNDL</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
-	<key>CFBundleVersion</key>
-	<string>1</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -44,11 +34,7 @@
 	<string>1540</string>
 	<key>DTXcodeBuild</key>
 	<string>15F31d</string>
-	<key>LSApplicationCategoryType</key>
-	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>14.4</string>
-	<key>LSUIElement</key>
-	<true/>
+	<string>10.13</string>
 </dict>
 </plist>
